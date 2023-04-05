@@ -1,6 +1,8 @@
+<center>
 <a href="https://42lausanne.ch/">
 	<img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="42 | Lausanne" width="50%">
 </a>
+</center>
 
 [![alt text][logo_piscine]](https://github.com/ndcnf/Piscine-42)</br>
 The selection phase to enter 42 Lausanne in Bash and mostly C.

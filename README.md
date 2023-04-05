@@ -42,34 +42,32 @@ To recreate a basic bash. First group projet. Learn more about signals and bash 
 
 ---
 
-[![alt text][r02printf]](https://github.com/ndcnf/Libft)</br>
+[![alt text][r05netp]](https://github.com/ndcnf/Libft)</br>
 To resolve network problem in exercises. Learn about TCP/IP and networks.
 
-[![alt text][r02printf]](https://github.com/ndcnf/Libft)</br>
+[![alt text][r05cub3d]](https://github.com/ndcnf/Libft)</br>
 To create a 3D game using raycasting. Second group projet. Learn more about graphics and raycasting. 
 
-[![alt text][r02printf]](https://github.com/ndcnf/Libft)</br>
+[![alt text][r05cpp]](https://github.com/ndcnf/Libft)</br>
 To learn about C++ in a set of 10 modules.
 
 ---
 
-[![alt text][r02printf]](https://github.com/ndcnf/Libft)</br>
+[![alt text][r06inception]](https://github.com/ndcnf/Libft)</br>
 To create multiples custom containers inside a VM. To learn about Docker, scripting and more about VM.
 
-[![alt text][r02printf]](https://github.com/ndcnf/Libft)</br>
-To create an IRC server. Third group project. To learn about...
+[![alt text][r06irc]](https://github.com/ndcnf/Libft)</br>
+To create an IRC server. Third group project. To learn about server-client communications.
 
 ---
 
-[![alt text][r02printf]](https://github.com/ndcnf/Libft)</br>
-To create a website with a chat and a Pong game. Forth group project. To learn about web programming.
+[![alt text][r07trans]](https://github.com/ndcnf/Libft)</br>
+To create a website with a chat and a Pong game. Fourth group project. To learn about web programming.
 
 
 
 
-[logo42]: https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg "42 | Lausanne"
-
-[logo_piscine]: https://img.shields.io/badge/Piscine-Selection%20stage-green?style=for-the-badge&&logo=c "Piscine"
+[logo_piscine]: https://img.shields.io/badge/Piscine-Selection%20phase-green?style=for-the-badge&&logo=c "Piscine"
 [logo_cursus]: https://img.shields.io/badge/Cursus-All%20projets-lightgreen?style=for-the-badge "Cursus"
 
 [r01libft]: https://img.shields.io/badge/Rank%2001-Libft-lightgreen?style=for-the-badge&&logo=c "Libft"
@@ -79,8 +77,17 @@ To create a website with a chat and a Pong game. Forth group project. To learn a
 [r02b2r]: https://img.shields.io/badge/Rank%2002-Born2beRoot-lightgreen?style=for-the-badge&&logo=debian "Born2beRoot"
 
 [r03solong]: https://img.shields.io/badge/Rank%2003-So%20long-lightgreen?style=for-the-badge&&logo=c "So long"
-[r03minitalk]: https://img.shields.io/badge/Rank%2003-Minitalk-lightgreen?style=for-the-badge&&logo=c "Minitalk"
+[r03minitalk]: https://img.shields.io/badge/Rank%2003-Minitalk-lightgreen?style=for-the-badge "Minitalk"
 [r03pushswap]: https://img.shields.io/badge/Rank%2003-Push%20Swap-lightgreen?style=for-the-badge&&logo=c "Push Swap"
 
 [r04philo]: https://img.shields.io/badge/Rank%2004-Philosophers-lightgreen?style=for-the-badge&&logo=c "Philosophers"
 [r04minishell]: https://img.shields.io/badge/Rank%2004-Minishell-lightgreen?style=for-the-badge&&logo=c "Minishell"
+
+[r05netp]: https://img.shields.io/badge/Rank%2005-NetPractice-lightgreen?style=for-the-badge&&logo=c "NetPractice"
+[r05cub3d]: https://img.shields.io/badge/Rank%2005-Cub3D-lightgreen?style=for-the-badge&&logo=c "Cub3D"
+[r05cpp]: https://img.shields.io/badge/Rank%2005-Piscine%20C++-lightgreen?style=for-the-badge&&logo=cplusplus "Piscine C++"
+
+[r06inception]: https://img.shields.io/badge/Rank%2006-Inception-lightgreen?style=for-the-badge&&logo=docker "Inception"
+[r06irc]: https://img.shields.io/badge/Rank%2006-Ft_IRC-lightgreen?style=for-the-badge&&logo=cplusplus "ft_irc"
+
+[r07trans]: https://img.shields.io/badge/Rank%2007-Transcendance-lightgreen?style=for-the-badge&&logo=vuedotjs "Transcendance"

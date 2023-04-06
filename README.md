@@ -32,7 +32,7 @@ To create a 2D game with a OpenGL-like tool. Learn about graphic programming.
 To have two communicating machines. Learn about signals.
 
 [![alt text][r03pushswap]](https://github.com/ndcnf/Push_Swap)</br>
-To sort numbers using an algorithm. Learn about algorithms.
+To sort numbers in a stack. Learn about complexity and algorithms.
 
 ---
 

@@ -26,7 +26,7 @@ To create a virtual machine in Debian. Learn about Unix, system administration a
 ---
 
 [![alt text][r03solong]](https://github.com/ndcnf/So_long)</br>
-To create a 2D game with a OpenGL-like tool. Learn about graphic programming.
+To create a 2D game with a OpenGL-like tool. Learn about sprites, basic gameplay elements, window management and event handling
 
 [![alt text][r03minitalk]](https://github.com/ndcnf/Minitalk)</br>
 To have two communicating machines. Learn about signals.

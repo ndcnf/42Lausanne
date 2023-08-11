@@ -63,7 +63,7 @@ To create an IRC server. Third group project. To learn about server-client commu
 
 ---
 
-[![alt text][r07trans]](https://github.com/ndcnf/ft_transcendance)</br>
+[![alt text][r07trans]](https://github.com/vhaefeli/42_transcendence)</br>
 To create a website with a chat and a Pong game. Fourth group project. To learn about web programming.
 
 
@@ -91,4 +91,4 @@ To create a website with a chat and a Pong game. Fourth group project. To learn 
 [r06inception]: https://img.shields.io/badge/Rank%2006-Inception-lightgreen?style=for-the-badge&&logo=docker "Inception"
 [r06irc]: https://img.shields.io/badge/Rank%2006-Ft_IRC-lightgreen?style=for-the-badge&&logo=cplusplus "ft_irc"
 
-[r07trans]: https://img.shields.io/badge/Rank%2007-Ft_Transcendance-lightgreen?style=for-the-badge&&logo=vuedotjs "FT_Transcendance"
+[r07trans]: https://img.shields.io/badge/Rank%2007-Ft_Transcendance-lightgreen?style=for-the-badge&&logo=vuedotjs "ft_Transcendence"
